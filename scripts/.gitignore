@@ -1,0 +1,5 @@
+# firebase service account key
+firebase_service_account/*
+
+# environment variables
+.env
